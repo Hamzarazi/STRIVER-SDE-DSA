@@ -1,0 +1,1 @@
+fragmentation https://www.tutorialspoint.com/operating_system/os_memory_management.htm#:~:text=Fragmentation,problem%20is%20known%20as%20Fragmentation
